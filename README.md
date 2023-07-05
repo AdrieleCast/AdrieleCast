@@ -1,4 +1,4 @@
-### Bem vindo(a), prazer Adriele Castro
+### Bem vindo(a)
 
 <div>
    <a href="https://github.com/AdrieleCast">
