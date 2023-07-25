@@ -26,3 +26,4 @@
   ![Snake animation](https://github.com/AdrieleCast/AdrieleCast/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iareff&" alt="iareff" /></p>
