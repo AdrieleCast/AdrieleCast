@@ -1,8 +1,5 @@
 
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/Nlq8p1H.gif" width="100%" alt="EternaFlix-style banner"/>
-</p>
 
 <h1 align="center">✨ Olá, eu sou a <strong>Adriele Castro</strong> ✨</h1>
 
