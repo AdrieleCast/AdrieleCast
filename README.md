@@ -70,8 +70,6 @@ Atualmente estou desenvolvendo o projeto **🎥 EternaFlix**, uma plataforma est
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/5yxGvB2.gif" width="200px" alt="cinematic loading">
-</p>
+
 
 
